@@ -42,7 +42,6 @@ const LoginForm = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="w-full max-w-md bg-white rounded-lg shadow-md p-8">
         <h2 className="text-3xl font-bold text-center mb-6 text-blue-600">BTechQue</h2>
-        <h2 className="text-3xl font-bold text-center mb-6 text-blue-600">BTechQue</h2>
         <h3 className="text-2xl font-semibold text-center mb-6">Login</h3>
         <form onSubmit={handleLogin} className="space-y-6">
           <div>
